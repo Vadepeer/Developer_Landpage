@@ -10,7 +10,7 @@ This is a simple and responsive landing page for developers, created using HTML 
 
 ## Live Demo
 
-You can view a live demo of the landing page [here](#).
+You can view a live demo of the landing page [https://vadepeer.github.io/Developer_Landpage/](#).
 
 ## Installation
 
